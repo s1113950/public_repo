@@ -1,2 +1,2 @@
 # public_repo
-Testing new public repo. Will delete later
+testing new public repo. Will delete later
